@@ -1,4 +1,4 @@
-# wallet_app
+# wallet App
 
 ## Wallet App is a digital wallet app designed to manage personal finances. It allows users to add and remove money, view their current balance, and monitor their daily expenditures
 
