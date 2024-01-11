@@ -6,7 +6,9 @@
     
  2) All Activites Screen: This screen allows users to view their expenditure for a specific date. It shows the date, time, activity type, and amount spent or added
    
- 3) Money Adjustment Screen: This screen is used to adjust the user's wallet balance. Users can enter the amount they want to add or remove and a description for their activity. Once the transaction is completed, the updated balance will be displayed on the Dashboard    
+ 3) Money Adjustment Screen: This screen is used to adjust the user's wallet balance. Users can enter the amount they want to add or remove and a description for their activity. Once the transaction is completed, the updated balance will be displayed on the Dashboard
+   
+ 4) Also , You can also edit or delete the operation by right or left 
      
 
 <img src="https://github.com/ibrahim-59/wallet_app/assets/116106936/5f02b53e-eabe-48df-bdff-3ab31f1fa728" >
